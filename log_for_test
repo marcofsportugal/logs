@@ -67,7 +67,7 @@
      Date Installed           : 2002-06-20
      Date Removed             : 2010-07-21T09:00Z
      Temperature Stabiliz.    : (deg C) +/- (deg C)
-     Additional Information   : (multiple lines)
+     Additional Information   : (multiple lines)
 
 3.2  Receiver Type            : TRIMBLE 4000SSI
      Satellite System         : GPS
@@ -182,4 +182,4 @@
      Date Removed             : CCYY-MM-DDThh:mmZ
      Additional Information   : (multiple lines)
      
-     SemiEOF
+    [..]
